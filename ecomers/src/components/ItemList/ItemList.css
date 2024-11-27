@@ -1,0 +1,40 @@
+/* ItemList.css */
+
+/* Estilo para los items en lista */
+.card {
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-img-top {
+    width: 100%;
+    border-bottom: 1px solid #eaeaea;
+  }
+  
+  .card-body {
+    padding: 10px;
+  }
+  
+  .card-title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-size: 14px;
+  }
+  
+  .card p {
+    color: #555;
+  }
+  
+  .card .btn-primary {
+    background-color: #00bfff; /* Celeste */
+    border: none;
+  }
+  
+  .card .btn-primary:hover {
+    background-color: #1e90ff;
+  }
+  

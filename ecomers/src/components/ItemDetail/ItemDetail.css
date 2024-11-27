@@ -1,0 +1,42 @@
+/* ItemDetail.css */
+
+.card {
+    border: 1px solid #eaeaea;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  .card-img-top {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-body p {
+    color: #555;
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  /* Botón "Finalizar compra" */
+  .card-body a {
+    background-color: #00bfff;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .card-body a:hover {
+    background-color: #1e90ff;
+  }
+  

@@ -1,0 +1,24 @@
+/* NavBar.css */
+
+/* Estilos del NavBar */
+.navbar {
+    background-color: #20beee !important; /* Celeste */
+    padding: 10px;
+  }
+  
+  .navbar a {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: white;
+  }
+  
+  /* Estilos para el carrito */
+  .nav-link {
+    color: white;
+  }
+  

@@ -1,0 +1,43 @@
+/* Cart.css */
+
+/* Estilos para la página del carrito */
+.container {
+    margin-top: 30px;
+  }
+  
+  h2 {
+    font-size: 28px;
+    color: #333;
+  }
+  
+  .cart-items {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .cart-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid #eaeaea;
+    border-radius: 5px;
+  }
+  
+  .cart-item p {
+    color: #555;
+  }
+  
+  .cart-item .remove-btn {
+    background-color: #ff6347;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .cart-item .remove-btn:hover {
+    background-color: #ff4500;
+  }
+  
